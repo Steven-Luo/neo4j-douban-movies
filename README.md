@@ -8,6 +8,8 @@
 
 构建过程已发布在微信公众号上，欢迎大家阅读。
 
+地址：[使用Neo4j构建豆瓣电影知识图谱](https://mp.weixin.qq.com/s?__biz=MjM5NTQ3NTg4MQ==&mid=2257496750&idx=1&sn=bae5302dd4d7e9ac2e43acde312e750f&chksm=a58df26892fa7b7e0d03c0ef40599ae1ae74cc26e0263d65f499dbec5752e59f6a58e9d7aafb&token=1417580679&lang=zh_CN#rd)
+
 ## 效果展示
 
 ### Schema
